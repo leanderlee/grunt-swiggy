@@ -1,14 +1,15 @@
 {
-	"name": "grunt-swig-it",
-	"description": "Create static HTML files using Swig",
+	"name": "grunt-swiggy",
+	"description": "The real grunt-swig",
 	"version": "0.0.4",
-	"homepage": "https://github.com/adamsilver/grunt-swig-it",
+	"homepage": "https://github.com/leanderlee/grunt-swiggy",
 	"license": "MIT",
 	"author": {
-		"name": "Adam Silver",
-		"url": "http://github.com/adamsilver/"
+		"name": "Leander Lee",
+		"url": "http://leander.ca"
 	},
 	"contributors": [
+    "Adam Silver",
 		"Ryan Gibbons <rtgibbons23@gmail.com>"
 	],
 	"keywords": [
@@ -18,14 +19,14 @@
 	],
 	"repository": {
 		"type": "git",
-		"url": "git://github.com/adamsilver/grunt-swig-it.git"
+		"url": "git://github.com/leanderlee/grunt-swiggy.git"
 	},
 	"bugs": {
-		"url": "https://github.com/adamsilver/grunt-swig-it/issues"
+		"url": "https://github.com/leanderlee/grunt-swiggy/issues"
 	},
 	"licenses": [{
 		"type": "MIT",
-		"url": "https://github.com/adamsilver/grunt-swig-it/blob/master/LICENSE-MIT"
+		"url": "https://github.com/leanderlee/grunt-swiggy/blob/master/LICENSE-MIT"
 	}],
 	"engines": {
 		"node": ">= 0.10.0"
