@@ -1,7 +1,7 @@
 {
 	"name": "grunt-swiggy",
 	"description": "The real grunt-swig",
-	"version": "0.0.4",
+	"version": "0.0.5",
 	"homepage": "https://github.com/leanderlee/grunt-swiggy",
 	"license": "MIT",
 	"author": {
